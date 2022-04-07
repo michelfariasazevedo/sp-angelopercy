@@ -1,5 +1,5 @@
-### 📂 Projeto: Site Pessoal
-#### Ângelo Percy
+### 📂 Projeto: Ângelo Percy
+#### Categoria: Site Pessoal
 Site pessoal, desenvolvido para profissional coach, totalmente personalizado, leve e responsivo.
 O layout do tema se adapta perfeitamente em diversos dispositivos móveis e navegadores.
 
